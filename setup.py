@@ -16,8 +16,8 @@
 
 from distutils.core import setup
 
-setup(name="PyExifTool",
-      version="0.1",
+setup(name="ocrd-pyexiftool",
+      version="0.2.0",
       description="Python wrapper for exiftool",
       license="GPLv3+",
       author="Sven Marnach",
