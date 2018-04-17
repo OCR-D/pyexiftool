@@ -14,7 +14,8 @@
 #
 # See COPYING.GPL or COPYING.BSD for more details.
 
-from distutils.core import setup
+from setuptools import setup
+
 
 setup(name="ocrd-pyexiftool",
       version="0.2.0",
